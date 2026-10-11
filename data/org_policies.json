@@ -1,0 +1,15 @@
+
+{
+    "max_budget": 5000,
+    "max_hours_per_week": 40,
+    "min_deadline_days": 1,
+    "require_manager_approval": true,
+    "require_hr_approval_for_safety_cases": true,
+    "mandatory_constraints": [
+        "budget_limit",
+        "working_hours_limit",
+        "valid_deadline",
+        "assigned_responsibilities",
+        "required_approvals"
+    ]
+}

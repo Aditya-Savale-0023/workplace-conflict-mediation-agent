@@ -1,0 +1,8 @@
+
+streamlit
+pandas
+networkx
+pytest
+matplotlib
+python-constraint
+pgmpy

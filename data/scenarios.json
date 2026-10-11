@@ -1,0 +1,15 @@
+
+[
+    {
+        "id": "workload_001",
+        "title": "Unequal Workload",
+        "issue": "workload_distribution",
+        "employee_public_position": "I have too many tasks and need a fairer workload.",
+        "employee_private_goal": "Receive recognition and avoid burnout.",
+        "manager_public_position": "The project deadline must be met.",
+        "manager_private_goal": "Deliver the project on time without exceeding budget.",
+        "budget": 4000,
+        "max_hours_per_week": 40,
+        "expected_outcome": "A feasible workload distribution with clear responsibilities and deadlines."
+    }
+]

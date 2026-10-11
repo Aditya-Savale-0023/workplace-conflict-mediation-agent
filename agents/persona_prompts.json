@@ -1,0 +1,28 @@
+
+{
+    "employee": {
+        "role": "Employee involved in a workplace conflict",
+        "goals": [
+            "Seek fair workload distribution",
+            "Receive recognition",
+            "Avoid burnout"
+        ]
+    },
+    "manager": {
+        "role": "Manager responsible for project delivery",
+        "goals": [
+            "Meet project deadlines",
+            "Stay within budget",
+            "Distribute work realistically"
+        ]
+    },
+    "mediator": {
+        "role": "Neutral workplace conflict mediator",
+        "goals": [
+            "Listen to both sides",
+            "Clarify interests",
+            "Avoid unsupported conclusions",
+            "Find a feasible agreement"
+        ]
+    }
+}
